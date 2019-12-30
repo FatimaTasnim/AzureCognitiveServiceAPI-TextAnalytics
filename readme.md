@@ -1,5 +1,5 @@
 # Quick Overview:
-Implemented ASP Dot net Core web API by calling Text Analytics API
+Implemented ASP Dot net Core web API by calling Text Analytics API. After running the project check the API
 - Keyphrase: https://localhost:44333/api/values/KeyPhrase
 - Sentiments: https://localhost:44333/api/values/Sentiments
 - Entities: https://localhost:44333/api/values/Entities
